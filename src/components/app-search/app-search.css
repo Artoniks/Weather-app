@@ -1,0 +1,15 @@
+.main-input {
+  padding: 16px;
+  border-radius: 25px;
+  border: none;
+  background-color: #fff;
+  font-family: inherit;
+  box-shadow: 0 4px 10px rgba(24, 24, 24, 0.2);
+  min-width: 300px;
+  font-size: 16px;
+}
+
+.main-input:focus {
+  outline: none;
+  background-color: #f5f5f5;
+}
