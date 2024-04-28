@@ -1,4 +1,5 @@
 import React from "react";
+import "./weather.css";
 
 const Weather = ({ data }) => {
   if (!data || !data.main || !data.weather) return null;

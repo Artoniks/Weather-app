@@ -13,6 +13,11 @@ body {
   flex-direction: column;
 }
 
+h2 {
+  margin-bottom: 0;
+  display: flex;
+  align-items: center;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
